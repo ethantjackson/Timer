@@ -2,4 +2,4 @@
 
 This timer application utilizes the QT framwork and is written in C++
 
-*The Windows application executable can be found in releaseTimer*
+functionality can be seen at https://www.youtube.com/watch?v=0n8ldqn4rQk&ab_channel=EthanJackson
